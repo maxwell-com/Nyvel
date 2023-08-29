@@ -2,7 +2,7 @@
 0ffcial website for Nyvel company and co. 
 
 # Commits
-I should be the only one making commits becuase frankly, you can code, and that is a massice skill issue.
+I should be the only one making commits becuase frankly, you can't code, and that is a massice skill issue.
 
 # Product
 I need some mock prosuct name and specs so list them here
