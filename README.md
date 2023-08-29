@@ -1,4 +1,4 @@
-# nyvel
+# Nyvel
 0ffcial website for Nyvel company and co. 
 
 # Commits
