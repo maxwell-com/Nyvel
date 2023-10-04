@@ -14,3 +14,5 @@ We should use railway, because I have a bias for their futuristic ui.
 
 # Domain 
 Could we use magsaved.store? That would work for testing and showing progress easily to others. (mostly cuz I have ego issues and want praise)
+
+Issue, we can't use the github hosting becuase, although free, we gave to make this repatory public
