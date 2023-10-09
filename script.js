@@ -10,6 +10,8 @@ for (let i = 0; i < 100; i++) {
 fetch('https://api.ipify.org?format=json')
   .then(response => response.json())
   .then(data => console.log(data.ip));
+//just saying it only pulls your public ip, silly dev team
+
 
 //makes a variable called data.ip with the clients ip, then prints it in the console.
 //this looks very questionable mr dev team
